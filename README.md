@@ -1,6 +1,6 @@
 # EventosApp-SpringBoot
 
-Aplicativo simples em **Spring Boot**, desenvolvido com **Thymeleaf** para a renderização da interface e estilizado com **Materialize CSS**. Utiliza o **MySQL** como banco de dados, proporcionando um sistema para gerenciar eventos e seus respectivos convidados.
+Aplicativo em **Spring Boot**, desenvolvido com **Thymeleaf** para a renderização da interface e estilizado com **Materialize CSS**. Utiliza o **MySQL** como banco de dados, proporcionando um sistema para gerenciar eventos e seus respectivos convidados.
 
 ## Tecnologias Utilizadas
 
